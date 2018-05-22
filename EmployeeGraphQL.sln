@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL", "EmployeeGraphQL\EmployeeGraphQL.csproj", "{494637CE-64DA-45FB-A325-4413F68B416F}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E7C82360-3369-4C26-B0E0-F4AFD5C7B64D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Repositories", "EmployeeGraphQL.Repositories\EmployeeGraphQL.Repositories.csproj", "{D0C1F33D-FCA2-4B97-96A3-A11E26E9418E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Domain", "EmployeeGraphQL.Domain\EmployeeGraphQL.Domain.csproj", "{6671BBC9-714A-456B-B81A-97F813558067}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Repositories.Entities", "EmployeeGraphQL.Repositories.Entities\EmployeeGraphQL.Repositories.Entities.csproj", "{DA84DBBC-C6E4-45E1-B8B6-5653829379BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Initialiser", "EmployeeGraphQL.Initialiser\EmployeeGraphQL.Initialiser.csproj", "{46431386-DDFC-4FF7-9596-B0825F946AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeGraphQL.GraphiQL", "..\EmployeeGraphQL.GraphiQL\EmployeeGraphQL.GraphiQL.csproj", "{F03095F4-4C04-4395-8E01-0D7DFF2626A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494637CE-64DA-45FB-A325-4413F68B416F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494637CE-64DA-45FB-A325-4413F68B416F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494637CE-64DA-45FB-A325-4413F68B416F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494637CE-64DA-45FB-A325-4413F68B416F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C82360-3369-4C26-B0E0-F4AFD5C7B64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C82360-3369-4C26-B0E0-F4AFD5C7B64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C82360-3369-4C26-B0E0-F4AFD5C7B64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C82360-3369-4C26-B0E0-F4AFD5C7B64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C1F33D-FCA2-4B97-96A3-A11E26E9418E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C1F33D-FCA2-4B97-96A3-A11E26E9418E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C1F33D-FCA2-4B97-96A3-A11E26E9418E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C1F33D-FCA2-4B97-96A3-A11E26E9418E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6671BBC9-714A-456B-B81A-97F813558067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6671BBC9-714A-456B-B81A-97F813558067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6671BBC9-714A-456B-B81A-97F813558067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6671BBC9-714A-456B-B81A-97F813558067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA84DBBC-C6E4-45E1-B8B6-5653829379BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA84DBBC-C6E4-45E1-B8B6-5653829379BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA84DBBC-C6E4-45E1-B8B6-5653829379BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA84DBBC-C6E4-45E1-B8B6-5653829379BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46431386-DDFC-4FF7-9596-B0825F946AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46431386-DDFC-4FF7-9596-B0825F946AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46431386-DDFC-4FF7-9596-B0825F946AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46431386-DDFC-4FF7-9596-B0825F946AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03095F4-4C04-4395-8E01-0D7DFF2626A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03095F4-4C04-4395-8E01-0D7DFF2626A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03095F4-4C04-4395-8E01-0D7DFF2626A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03095F4-4C04-4395-8E01-0D7DFF2626A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E22CE1-8CC1-422B-B953-E05D10FE503E}
+	EndGlobalSection
+EndGlobal

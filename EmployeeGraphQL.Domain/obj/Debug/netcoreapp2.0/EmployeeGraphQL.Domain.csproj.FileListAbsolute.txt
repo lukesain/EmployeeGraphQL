@@ -1,0 +1,12 @@
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.csprojAssemblyReference.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.csproj.CoreCompileInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.AssemblyInfoInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.AssemblyInfo.cs
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.deps.json
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.csproj.CopyComplete
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Domain\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Domain.pdb

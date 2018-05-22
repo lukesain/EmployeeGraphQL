@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  employeegraphql:
+    image: ${DOCKER_REGISTRY}employeegraphql
+    build:
+      context: .
+      dockerfile: EmployeeGraphQL/Dockerfile

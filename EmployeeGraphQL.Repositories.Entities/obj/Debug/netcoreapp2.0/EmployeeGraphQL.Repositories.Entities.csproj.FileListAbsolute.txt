@@ -1,0 +1,9 @@
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.deps.json
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\bin\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.csproj.CoreCompileInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.AssemblyInfoInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.AssemblyInfo.cs
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.Repositories.Entities\obj\Debug\netcoreapp2.0\EmployeeGraphQL.Repositories.Entities.csprojAssemblyReference.cache
