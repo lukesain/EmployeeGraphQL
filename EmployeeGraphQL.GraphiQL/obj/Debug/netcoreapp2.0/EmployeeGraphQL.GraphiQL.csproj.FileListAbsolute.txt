@@ -7,3 +7,12 @@ C:\OtherProjects\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQ
 C:\OtherProjects\EmployeeGraphQL.GraphiQL\bin\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.pdb
 C:\OtherProjects\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.dll
 C:\OtherProjects\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\bin\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.deps.json
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\bin\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\bin\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.pdb
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.csprojAssemblyReference.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.csproj.CoreCompileInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.AssemblyInfoInputs.cache
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.AssemblyInfo.cs
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.dll
+C:\OtherProjects\EmployeeGraphQL\EmployeeGraphQL.GraphiQL\obj\Debug\netcoreapp2.0\EmployeeGraphQL.GraphiQL.pdb

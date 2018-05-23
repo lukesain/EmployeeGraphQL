@@ -20,8 +20,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\EmployeeGraphQL.GraphiQL\EmployeeGraphQL.GraphiQL.csproj" />
     <ProjectReference Include="..\EmployeeGraphQL.Domain\EmployeeGraphQL.Domain.csproj" />
+    <ProjectReference Include="..\EmployeeGraphQL.GraphiQL\EmployeeGraphQL.GraphiQL.csproj" />
     <ProjectReference Include="..\EmployeeGraphQL.Initialiser\EmployeeGraphQL.Initialiser.csproj" />
   </ItemGroup>
 
