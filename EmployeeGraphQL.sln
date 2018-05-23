@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Repositorie
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeGraphQL.Initialiser", "EmployeeGraphQL.Initialiser\EmployeeGraphQL.Initialiser.csproj", "{46431386-DDFC-4FF7-9596-B0825F946AF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeGraphQL.GraphiQL", "..\EmployeeGraphQL.GraphiQL\EmployeeGraphQL.GraphiQL.csproj", "{F03095F4-4C04-4395-8E01-0D7DFF2626A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeGraphQL.GraphiQL", "EmployeeGraphQL.GraphiQL\EmployeeGraphQL.GraphiQL.csproj", "{F03095F4-4C04-4395-8E01-0D7DFF2626A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

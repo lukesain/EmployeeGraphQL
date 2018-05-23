@@ -5100,19 +5100,6 @@
           "bin/placeholder/EmployeeGraphQL.Domain.dll": {}
         }
       },
-      "EmployeeGraphQL.GraphiQL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "dependencies": {
-          "Microsoft.AspNetCore": "2.0.3"
-        },
-        "compile": {
-          "bin/placeholder/EmployeeGraphQL.GraphiQL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EmployeeGraphQL.GraphiQL.dll": {}
-        }
-      },
       "EmployeeGraphQL.Initialiser/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -13511,11 +13498,6 @@
       "path": "../EmployeeGraphQL.Domain/EmployeeGraphQL.Domain.csproj",
       "msbuildProject": "../EmployeeGraphQL.Domain/EmployeeGraphQL.Domain.csproj"
     },
-    "EmployeeGraphQL.GraphiQL/1.0.0": {
-      "type": "project",
-      "path": "../../EmployeeGraphQL.GraphiQL/EmployeeGraphQL.GraphiQL.csproj",
-      "msbuildProject": "../../EmployeeGraphQL.GraphiQL/EmployeeGraphQL.GraphiQL.csproj"
-    },
     "EmployeeGraphQL.Initialiser/1.0.0": {
       "type": "project",
       "path": "../EmployeeGraphQL.Initialiser/EmployeeGraphQL.Initialiser.csproj",
@@ -13534,8 +13516,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "C:\\OtherProjects\\EmployeeGraphQL.GraphiQL\\EmployeeGraphQL.GraphiQL.csproj",
       "EmployeeGraphQL.Domain >= 1.0.0",
-      "EmployeeGraphQL.GraphiQL >= 1.0.0",
       "EmployeeGraphQL.Initialiser >= 1.0.0",
       "GraphQL >= 2.0.0-alpha-912",
       "Microsoft.AspNetCore.All >= 2.0.8",
@@ -13620,5 +13602,16 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\OtherProjects\\EmployeeGraphQL.GraphiQL\\EmployeeGraphQL.GraphiQL.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\OtherProjects\\EmployeeGraphQL.GraphiQL\\EmployeeGraphQL.GraphiQL.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.0"
+      ]
+    }
+  ]
 }
